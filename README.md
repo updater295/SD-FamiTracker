@@ -1,6 +1,6 @@
-# SD-FamiTracker
+# CANCELLED
 
-SD-Famitracker is a fork of Dn-FamiTracker, but the Main Chip is an Yamaha YMF825 instead of Riccoh 2A03/2A07?!
+Plan has CANCELLED.
 
 ## Notable additions
 
