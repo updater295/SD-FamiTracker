@@ -1,4 +1,4 @@
-<img src="docs/dn logo.svg">
+#SD-FamiTracker
 
 Dn-Famitracker is a fork of 0CC-FamiTracker that incorporates numerous fixes and features. The meaning of the name "Dn" is "Derivative n", which alludes to this fork being the nth derivative of the original FamiTracker program.
 
