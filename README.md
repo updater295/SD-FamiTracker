@@ -1,6 +1,6 @@
 # SD-FamiTracker
 
-SD-Famitracker is a fork of Dn-FamiTracker, but it has a D I F F E R E N T Main chip.
+SD-Famitracker is a fork of Dn-FamiTracker, but 2A03 gets 𝐑𝐄𝐏𝐋𝐀𝐂𝐄𝐃?!
 
 ## Notable additions
 
